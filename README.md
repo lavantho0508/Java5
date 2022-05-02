@@ -1,6 +1,6 @@
 # Java5
 ### Hello
 
-`java 
+```java 
 System.out.print("hello');
-`
+```
